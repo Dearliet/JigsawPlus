@@ -7,7 +7,7 @@
 ## Commands
 
 ### `/jigsaw levels get`
-This command displays the current global jigsaw level, which is the level that will be used by default for all Jigsaw blocks.
+This command displays the current global jigsaw level, which is the level that will be used by all Jigsaw blocks. Undefined by default.
 
 <br>
 
