@@ -1,0 +1,5 @@
+name: JigsawPlus
+version: '${project.version}'
+main: com.dearliet.jigsawplus.JigsawPlus
+api-version: 1.19
+depend: [ProtocolLib]
