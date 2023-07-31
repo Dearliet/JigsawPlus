@@ -6,7 +6,7 @@
 
     <groupId>com.dearliet.jigsawplus</groupId>
     <artifactId>JigsawPlus</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>JigsawPlus</name>
@@ -121,13 +121,13 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.19.3-R0.1-SNAPSHOT</version>
+            <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.comphenix.protocol</groupId>
             <artifactId>ProtocolLib</artifactId>
-            <version>4.7.0</version>
+            <version>5.0.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -143,8 +143,8 @@
         </dependency>
         <dependency>
             <groupId>dev.jorel</groupId>
-            <artifactId>commandapi-shade</artifactId>
-            <version>8.7.5</version>
+            <artifactId>commandapi-bukkit-shade</artifactId>
+            <version>9.0.3</version>
         </dependency>
     </dependencies>
 </project>
